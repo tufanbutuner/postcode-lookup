@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import "./globals.scss";
 
 export const metadata: Metadata = {
-  title: "Hackney Address Lookup",
+  title: "Address Lookup | Hackney Council",
   description: "Lookup addresses in Hackney by postcode.",
 };
 

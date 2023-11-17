@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <div className="lbh-header">
+    <header className="lbh-header">
       <div className="lbh-header__main">
         <div className="lbh-container lbh-header__wrapper">
           <h1 className="lbh-header__title">
@@ -40,6 +40,6 @@ export default function Header() {
           </h1>
         </div>
       </div>
-    </div>
+    </header>
   );
 }
